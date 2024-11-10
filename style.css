@@ -1,0 +1,11 @@
+body {
+    background-color: palevioletred;
+    text-align: center;
+}
+
+h1 {
+  font-size: 43px;
+  background-color: red;
+  border-radius: 22px;
+  padding: 12px 12px;
+}
